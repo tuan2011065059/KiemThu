@@ -1,0 +1,17 @@
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csprojResolveAssemblyReference.cache
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.dll
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\bin\Debug\BasicMathTest.pdb
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\bin\Debug\BasicMath.pdb
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\bin\Debug\BasicMath.exe.config
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.csproj.CopyComplete
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.dll
+C:\Users\dell\Documents\Zalo Received Files\BasicMath\BasicMathTest\obj\Debug\BasicMathTest.pdb
